@@ -5,9 +5,9 @@
     Also it will tell how long you have live in weeks, and months.
 """
 
-print("NOTE: This program assumes we all live upto 90 years of age.")
+print("\nNOTE: This program assumes we all live upto 90 years of age.\n")
 
-age = int(input("Kindly enter your current age: "))
+age = int(input("Kindly enter your current age: \n"))
 
 
 def time(years):
